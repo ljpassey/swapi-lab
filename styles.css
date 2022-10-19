@@ -1,0 +1,22 @@
+#residents {
+    display: flex;
+    flex-direction: row;
+    width: 98vw;
+    height: 50vh;
+    justify-content:space-around;
+    align-items: center;
+    border: solid black 3px;
+    border-radius: 20px;
+}
+
+button {
+    color: black; 
+    background-color: rgb(127, 244, 255);
+    width: 100px;
+    height: 75px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
